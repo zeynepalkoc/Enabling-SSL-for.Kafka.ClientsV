@@ -8,7 +8,7 @@ It is ensured that the necessary certificates are created to encrypt the traffic
 
 ***NOTE:** Before running the script, the **SUBJECT** information in it must be updated.*
 
-<img src="https://github.com/tolgaakkapulu/Enabling_SSL_for_Kafka_Clients/blob/main/creating_certificates_for_kafka.png"><br><br>
+<img src="https://github.com/zeynepalkoc/Enabling.SSL.for.Kafka.Clients/blob/main/creating_certificates_for_kafka.png"><br><br>
 
 ### Kafka Configs
 ```
