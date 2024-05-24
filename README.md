@@ -1,6 +1,5 @@
 # Enabling SSL for Kafka Clients
-
-It is ensured that the necessary certificates are created to encrypt the traffic between Kafka Brokers and clients.
+Ensuring secure communication between Kafka brokers and clients involves creating the necessary certificates for traffic encryption. This process includes setting up a Certificate Authority (CA) or using an existing one to generate server and client certificates. These certificates are then configured in Kafka's properties files to enable SSL encryption, ensuring that all data transferred between brokers and clients is encrypted and secure.
 
 ### Creating Certificates
 * chmod +x creating_certificates_for_kafka.sh
